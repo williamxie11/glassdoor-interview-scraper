@@ -31,6 +31,12 @@ $ python scraper_v1.2.py
 
 NOTE: Glassdoor will require you to insert CAPTCHA on login or during the scraping process. The script will poll until CAPTCHA is entered during scraping.
 
+## Results
+
+![response](http://i.imgur.com/zY8l22v.png)
+
+The web scraper will output a JSON with the name "[company name].json" in the same directory. Each data point in the JSON corresponds to one interview review on Glassdoor with attributes (see above) for each portion of the review.
+
 ## Changelog
 
 ###v1.2

@@ -21,7 +21,9 @@ $ pip install selenium
 
 1. Open the scraper Python script with a text editor of your choice. 
 2. Add your Glassdoor account username and password
-3. Specify the number of pages, the company name, and the URL of the interviews page for the company on Glassdoor (with your specified filters)
+3. Specify the number of pages, the company name, and the URL of the interviews page for the company on Glassdoor with your specified filters selected
+![username and password](http://i.imgur.com/gHzYwZZ.png)
+![scraper settings](http://i.imgur.com/TOLZqhJ.png)
 4. Run the scraper
 ```sh
 $ python scraper_v1.2.py

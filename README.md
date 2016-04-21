@@ -2,7 +2,7 @@
 
 Current Version: 1.2
 
-Glassdoor web scraper providing interview experience data for [Decoding The Interview](https://github.com/williamxie11/decoding-the-interview).
+Glassdoor web crawler and scraper providing interview experience data for [Decoding The Interview](https://github.com/williamxie11/decoding-the-interview).
 
 ## Installation
 

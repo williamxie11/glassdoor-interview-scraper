@@ -1,8 +1,8 @@
 # glassdoor-interview-scraper
 
-Current Version: 1.2
-
 Glassdoor web crawler and scraper providing interview experience data for [Decoding The Interview](https://github.com/williamxie11/decoding-the-interview).
+
+This was an academic project for CS 410 - Text and Information Systems at UIUC and is no longer maintained.
 
 ## Installation
 

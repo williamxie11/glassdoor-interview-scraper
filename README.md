@@ -39,7 +39,7 @@ The web scraper will output a JSON with the name "[company name].json" in the sa
 
 ## Changelog
 
-###v1.2
+### v1.2
 - companyURL now accepts full path of Interview page for ease of use
 - Fixed issue with pagination not working
 - Fixed issue where scraper would erroneously get stuck waiting for the page to load 
@@ -48,7 +48,7 @@ The web scraper will output a JSON with the name "[company name].json" in the sa
 - Now takes an additional short break every 10 pages to avoid rate limiting
 - Cleaned up and added some more progress dialogue
 
-###v1.1
+### v1.1
 - Made maxnum a global pages variable for easier use
 - Removed option and dependency for URL2 as each link ends in ".htm" anyways
 - Removed unnecessary concatenation of URL links at the beginning of get_data(). Glassdoor automatically redirects _IP1 link to the first interview page.
@@ -56,5 +56,5 @@ The web scraper will output a JSON with the name "[company name].json" in the sa
 - Increased sleep time in between scraping interview pages
 - Added some more progess dialogue
 
-###v1.0
+### v1.0
 - And so it begins ...
